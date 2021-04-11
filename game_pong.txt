@@ -1,3 +1,4 @@
 import pygame
+hellow
 
-pygame.init()
+pygame.init
