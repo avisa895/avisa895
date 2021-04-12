@@ -5,15 +5,18 @@ from math import dist
 import os
 
 
+
 pygame.init()
 
 
 width_window=500
 height_window=600
 window=pygame.display.set_mode((width_window , height_window))
-pygame.display.set_caption('play game ')
+pygame.display.set_caption('play game guys !')
 
 base_dir=os.getcwd()
+
+
 
 
 xchange=0
