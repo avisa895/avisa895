@@ -10,7 +10,8 @@ window=pygame.display.set_mode((width_window,height_window))
 pygame.display.set_caption('game')
 window.fill((0,0,0))
 
-#color
+#colors
+
 white=(255,255,255)
 
 
