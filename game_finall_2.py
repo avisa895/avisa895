@@ -12,6 +12,8 @@ pygame.display.set_caption('game')
 #color
 yellow=(0,255,255)
 blue=(0,0,255)
+red=(255 , 0,0)
+
 
 
 class rect:
