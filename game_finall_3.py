@@ -11,7 +11,7 @@ window.fill((255,255,255))
 pygame.display.set_caption('game')
 window.fill((255,255,0))
 
-#color
+#colors
 green=(0,255,0)
 red=(255,0,0)
 blue=(0,0,255)
