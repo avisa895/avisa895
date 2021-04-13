@@ -20,7 +20,8 @@ pygame.display.set_caption('play game guys :) !')
 base_dir=os.getcwd()
 
 
-#variable
+#variables
+
 xchange=0
 bullets=[]
 ychange=1
