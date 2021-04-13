@@ -4,17 +4,31 @@ import random
 from math import dist
 import os
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 17dabc2e48b924c4bbf2a5a4c1801419e9abf1d2
 pygame.init()
 
 
 width_window=500
 height_window=600
 window=pygame.display.set_mode((width_window , height_window))
+<<<<<<< HEAD
 pygame.display.set_caption('play game ')
+=======
+pygame.display.set_caption('play game guys :) !')
+>>>>>>> 17dabc2e48b924c4bbf2a5a4c1801419e9abf1d2
 
 base_dir=os.getcwd()
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 17dabc2e48b924c4bbf2a5a4c1801419e9abf1d2
 xchange=0
 bullets=[]
 ychange=1
@@ -258,7 +272,10 @@ class health_back:
 
             if self.angle==15:
                 self.rotate=-1
+<<<<<<< HEAD
             
+=======
+>>>>>>> 17dabc2e48b924c4bbf2a5a4c1801419e9abf1d2
             elif self.angle==-15:
                 self.rotate=1
 
