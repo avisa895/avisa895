@@ -16,8 +16,7 @@ pygame.display.set_caption('play')
 
 
 
-
-
+#variables
 
 down=True
 ychange=0.2
