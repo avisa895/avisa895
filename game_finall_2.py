@@ -10,6 +10,7 @@ window.fill((255,0,0))
 pygame.display.set_caption('game')
 
 #color
+#variables
 yellow=(0,255,255)
 blue=(0,0,255)
 
