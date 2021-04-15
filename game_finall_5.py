@@ -16,7 +16,8 @@ pygame.display.set_caption('play')
 
 
 
-#variables !
+#variables !!
+
 
 
 down=True
