@@ -37,7 +37,7 @@ class background:
         self.vel=0.2
         self.img=pygame.image.load('background.jpg')
     
-
+ 
     def show(self , window):
         window.blit(self.img , (self.x1  , 0))
         window.blit(self.img , (self.x2 , 0) ) 
